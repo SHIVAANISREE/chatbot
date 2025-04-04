@@ -1,5 +1,7 @@
 # 🌐 AI Assistant Web App (Next.js + Tailwind CSS)
 
+![Recording 2025-04-04 095635](https://github.com/user-attachments/assets/2dedd512-59f7-46d9-9abb-f75178a87c9f)
+
 A modern and responsive web-based AI Assistant built with **Next.js** and **Tailwind CSS**, allowing users to:
 
 - Chat with a powerful AI model
